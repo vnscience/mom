@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // CẤU HÌNH: Điền số lượng ảnh bạn có trong thư mục images
-    const totalImages = 12; // Ví dụ bạn có 15 ảnh (1.jpg đến 15.jpg)
+    const totalImages = 13; // Ví dụ bạn có 15 ảnh (1.jpg đến 15.jpg)
     
     const gallery = document.getElementById('gallery');
     
